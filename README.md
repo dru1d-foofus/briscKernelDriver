@@ -1,9 +1,13 @@
 # WindowsSCOPE Vulnerabilities
 
 ## Overview
+
 Vendor			   	: BlueRiSC
+
 Website			   	: https://www.windowsscope.com/
+
 Product			   	: briscKernelDriver.sys
+
 Affected Version(s)	: < 3.3
 
 "WindowsSCOPE Cyber Forensics 3.2 is a GUI-based memory forensic capture and analysis toolkit. It supports the import of standard raw physical memory dumps which are then automatically reverse engineered and presented in an easy-to-view format for forensic analysis in a central location. It automatically identifies all processes, threads, and drivers running on the system as well as other system activity including open files, registry keys, and network sockets. It supports the latest Windows versions through Windows 10 and also has advanced data search capabilities to find URLs, credit cards, names, etc. in captured memory. Applications include digital forensics, crime investigation, cyber defense & attack detection, and other reverse engineering activities."
