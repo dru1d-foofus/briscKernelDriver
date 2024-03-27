@@ -1,4 +1,4 @@
-# WindowsSCOPE Vulnerabilities
+# CVE-2024-29513 - briscKernelDriver.sys
 
 ## Overview
 
